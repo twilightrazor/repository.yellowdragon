@@ -5,11 +5,11 @@
 [submodule "skin.confluence-extented"]
 	path = skin.confluence-extented
 	url = https://github.com/nkvoronov/skin.confluence-extented.git
-	branch = jarvis
+	branch = krypton
 [submodule "skin.confluence-extented-s"]
 	path = skin.confluence-extented-s
 	url = https://github.com/nkvoronov/skin.confluence-extented.git
-	branch = jarvis-s
+	branch = krypton-s
 [submodule "script.skinshortcuts"]
 	path = script.skinshortcuts
 	url = https://github.com/nkvoronov/script.skinshortcuts.git
@@ -53,11 +53,11 @@
 [submodule "script.rss.editor"]
 	path = script.rss.editor
 	url = https://github.com/nkvoronov/script.rss.editor.git
-	branch = jarvis
+	branch = vmaster
 [submodule "script.globalsearch"]
 	path = script.globalsearch
 	url = https://github.com/nkvoronov/script.globalsearch.git
-	branch = jarvis
+	branch = vmaster
 [submodule "script.simpleplaylists"]
 	path = script.simpleplaylists
 	url = https://github.com/nkvoronov/script.simpleplaylists.git
@@ -69,7 +69,7 @@
 [submodule "script.xbmc.audio.mixer"]
 	path = script.xbmc.audio.mixer
 	url = https://github.com/nkvoronov/script.xbmc.audio.mixer.git
-	branch = jarvis
+	branch = vmaster
 [submodule "script.xbmc.lcdproc"]
 	path = script.xbmc.lcdproc
 	url = https://github.com/nkvoronov/script.xbmc.lcdproc.git
@@ -77,7 +77,7 @@
 [submodule "script.favourites"]
 	path = script.favourites
 	url = https://github.com/nkvoronov/script.favourites.git
-	branch = vjarvis
+	branch = vmaster
 [submodule "script.randomandlastitems"]
 	path = script.randomandlastitems
 	url = https://github.com/nkvoronov/script.randomandlastitems.git
