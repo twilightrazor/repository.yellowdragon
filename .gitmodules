@@ -22,10 +22,6 @@
 	path = script.epg.vsetv
 	url = https://github.com/nkvoronov/script.epg.vsetv.git
 	branch = master
-[submodule "skin.estuary-extented"]
-	path = skin.estuary-extented
-	url = https://github.com/nkvoronov/skin.estuary-extented.git
-	branch = jarvis
 [submodule "script.module.simplecache"]
 	path = script.module.simplecache
 	url = https://github.com/nkvoronov/script.module.simplecache.git
