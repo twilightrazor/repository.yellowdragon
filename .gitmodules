@@ -1,7 +1,3 @@
-[submodule "skin.confluence-plood"]
-	path = skin.confluence-plood
-	url = https://github.com/nkvoronov/skin.confluence-plood.git
-	branch = master
 [submodule "skin.confluence-extented"]
 	path = skin.confluence-extented
 	url = https://github.com/nkvoronov/skin.confluence-extented.git
